@@ -19,9 +19,4 @@ The purpose of this challenge was to use the starter code and create a work day 
 
 ## Credits
 
-List of resources used to complete this project:
-
-
-## Images
-
-
+My instructor, TAs, and the two tutors that helped me :) 
